@@ -10,23 +10,26 @@ body {
     color: #ffffff;
 }
 
+.header--subheader {
+    font-weight: 300;
+    font-size: 42 px;
+    text-align: center;
+    color:white;    
+}
+
+/* LINK */
 .link--cta {
     color: aquamarine;
     font-size: 16 px;
 }
-/*
-.paragraph --main {
-    font-weight: 300;
-    font-size: 42 px;
-}
+/* PARAGRAPH */
 
-.paragraph -- {
+.paragraph--p {
     font-size: 21 px;
     color: gray;
 }
 
-.footer -- {
+.footer--f {
     text-align: right;
     color: gray
 }
-*/
