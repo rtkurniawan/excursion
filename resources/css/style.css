@@ -17,6 +17,11 @@ body {
     color:white;    
 }
 
+.header--subheader3 {
+    text-align: right;
+    color: gray
+}
+
 /* LINK */
 .link--cta {
     color: aquamarine;
@@ -27,9 +32,4 @@ body {
 .paragraph--p {
     font-size: 21 px;
     color: gray;
-}
-
-.footer--f {
-    text-align: right;
-    color: gray
 }
