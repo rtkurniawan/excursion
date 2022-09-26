@@ -3,9 +3,30 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/* HEADING */
 .header--main {
     font-weight: normal;
     font-size: 50 px;
     color: #ffffff;
 }
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16 px;
+}
+/*
+.paragraph --main {
+    font-weight: 300;
+    font-size: 42 px;
+}
+
+.paragraph -- {
+    font-size: 21 px;
+    color: gray;
+}
+
+.footer -- {
+    text-align: right;
+    color: gray
+}
+*/
