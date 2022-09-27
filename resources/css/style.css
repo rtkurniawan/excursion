@@ -4,29 +4,30 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADING */
 .header--main {
     font-weight: normal;
     font-size: 50 px;
     color: #ffffff(0, 0%, 100%);
+}
+.header--subheader {
+    font-weight: 300;
+    font-size: 42 px;
+    color: #ffffff(0, 0%, 100%);
+    text-align: center;
+}
+
+.paragraph--p {
+    font-size: 21 px;
+    color: gray;
 }
 
 .link--cta {
     color: aquamarine;
     font-size: 16 px;
 }
-/*
-.paragraph --main {
-    font-weight: 300;
-    font-size: 42 px;
-}
 
-.paragraph -- {
-    font-size: 21 px;
-    color: gray;
-}
-
-.footer -- {
+.footer--f {
     text-align: right;
     color: gray
 }
-*/
