@@ -8,12 +8,12 @@ body {
 .header--main {
     font-weight: normal;
     font-size: 50 px;
-    color: #ffffff(0, 0%, 100%);
+    color: #ffffff;
 }
 .header--subheader {
     font-weight: 300;
     font-size: 42 px;
-    color: #ffffff(0, 0%, 100%);
+    color: #ffffff;
     text-align: center;
 }
 
@@ -22,11 +22,13 @@ body {
     color: gray;
 }
 
+/* LINK */
 .link--cta {
     color: aquamarine;
     font-size: 16 px;
 }
 
+/*FOOTER */
 .footer--f {
     text-align: right;
     color: gray
